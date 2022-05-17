@@ -44,4 +44,5 @@
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ansible.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/packer.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/terraform.svg" />
 </p>
