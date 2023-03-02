@@ -40,6 +40,7 @@
 <p align="left">
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ruby.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/amazonaws.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ansible.svg" />
