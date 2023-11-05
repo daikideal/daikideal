@@ -38,6 +38,7 @@
 </h3>
 
 <p align="left">
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/go.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ruby.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
